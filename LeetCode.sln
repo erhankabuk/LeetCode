@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculator", "BasicCal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "MoveZeros\MoveZeros.csproj", "{1607673F-5C3C-47C5-A1F7-7010E3A45D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfBalloons", "MaximumNumberOfBalloons\MaximumNumberOfBalloons.csproj", "{0E5E25EC-2359-4D55-BD8B-0AE72CFBBDC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1607673F-5C3C-47C5-A1F7-7010E3A45D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1607673F-5C3C-47C5-A1F7-7010E3A45D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1607673F-5C3C-47C5-A1F7-7010E3A45D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5E25EC-2359-4D55-BD8B-0AE72CFBBDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E25EC-2359-4D55-BD8B-0AE72CFBBDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E25EC-2359-4D55-BD8B-0AE72CFBBDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E25EC-2359-4D55-BD8B-0AE72CFBBDC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
