@@ -52,7 +52,8 @@ namespace ContainerWithMostWater
                     if (volume > container)
                         container = volume;
 
-                    /* solution 2
+                    /*
+                    //solution 2
                     xAxis = j - i;                    
                     if (height[i] >= height[j])
                     {
@@ -67,7 +68,7 @@ namespace ContainerWithMostWater
                             container = volume;
                     }    
                     
-                    solution 3
+                    //solution 3
                     int max = 0;
                     int left = 0;
                     int right = height.Length - 1;
