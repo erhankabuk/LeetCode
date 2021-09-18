@@ -66,6 +66,22 @@ namespace ContainerWithMostWater
                         if (volume > container)
                             container = volume;
                     }    
+                    
+                    solution 3
+                    int max = 0;
+                    int left = 0;
+                    int right = height.Length - 1;
+
+                    while (left < right)
+                    {
+                        var area = Math.Min(height[right], height[left]) * (right - left);
+                        max = Math.Max(max, area);
+                        if (height[left] < height[right])
+                            left++;
+                        else
+                            right--;
+                    }
+                    return max;
                     */
                 }
             }
