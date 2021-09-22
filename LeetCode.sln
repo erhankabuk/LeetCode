@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{29477C79-D152-4275-B451-3861031A7E49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxConsecutiveOnes", "MaxConsecutiveOnes\MaxConsecutiveOnes.csproj", "{880B06CD-F779-4C61-894E-94676F7323F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{29477C79-D152-4275-B451-3861031A7E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29477C79-D152-4275-B451-3861031A7E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29477C79-D152-4275-B451-3861031A7E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880B06CD-F779-4C61-894E-94676F7323F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880B06CD-F779-4C61-894E-94676F7323F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880B06CD-F779-4C61-894E-94676F7323F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880B06CD-F779-4C61-894E-94676F7323F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
