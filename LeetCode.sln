@@ -37,7 +37,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{9DA4F1D4-78D3-4721-B76E-4B2E564BBD95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{B8BE8CE1-A977-40EE-889D-8AFBBA0DF0CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{B8BE8CE1-A977-40EE-889D-8AFBBA0DF0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementQueueUsingStack", "ImplementQueueUsingStack\ImplementQueueUsingStack.csproj", "{831AF6B7-A31C-4539-BBF1-D579E7E86329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{B8BE8CE1-A977-40EE-889D-8AFBBA0DF0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8BE8CE1-A977-40EE-889D-8AFBBA0DF0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8BE8CE1-A977-40EE-889D-8AFBBA0DF0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831AF6B7-A31C-4539-BBF1-D579E7E86329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831AF6B7-A31C-4539-BBF1-D579E7E86329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831AF6B7-A31C-4539-BBF1-D579E7E86329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831AF6B7-A31C-4539-BBF1-D579E7E86329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
