@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame", "JumpGame\JumpGa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{EF68E1CA-A58C-4F06-B38C-4A6A95AD6B1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMode", "SİmpleMode\SimpleMode.csproj", "{BECAECC8-E670-4F49-8854-C38C956858CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECAECC8-E670-4F49-8854-C38C956858CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECAECC8-E670-4F49-8854-C38C956858CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECAECC8-E670-4F49-8854-C38C956858CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECAECC8-E670-4F49-8854-C38C956858CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
