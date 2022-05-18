@@ -29,7 +29,7 @@ namespace ValidParenthesis
             Output: false
             */
             //string input = "{[]}()";
-            string input = "{[]}())))))";
+            string input = "{[()]()}";
             Console.WriteLine(IsValid(input));
         }
         public static bool IsValid(string input)
