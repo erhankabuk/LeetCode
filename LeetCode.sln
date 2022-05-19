@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesis", "ValidPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{81BAE6A3-D92E-4E6D-80BE-BF5A41D51A8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMode", "SİmpleMode\SimpleMode.csproj", "{BECAECC8-E670-4F49-8854-C38C956858CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMode", "SİmpleMode\SimpleMode.csproj", "{BECAECC8-E670-4F49-8854-C38C956858CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{2CEA3F8C-7A69-4523-9103-23A944A64C38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{BECAECC8-E670-4F49-8854-C38C956858CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECAECC8-E670-4F49-8854-C38C956858CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECAECC8-E670-4F49-8854-C38C956858CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEA3F8C-7A69-4523-9103-23A944A64C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEA3F8C-7A69-4523-9103-23A944A64C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEA3F8C-7A69-4523-9103-23A944A64C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEA3F8C-7A69-4523-9103-23A944A64C38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
