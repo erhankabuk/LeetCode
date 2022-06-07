@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMode", "SİmpleMode\SimpleMode.csproj", "{BECAECC8-E670-4F49-8854-C38C956858CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{2CEA3F8C-7A69-4523-9103-23A944A64C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{2CEA3F8C-7A69-4523-9103-23A944A64C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{3E1DBEB6-ACA6-4F75-A22A-775995FFBC16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{3E1DBEB6-ACA6-4F75-A22A-775995FFBC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{0044A26C-5336-4343-8DA6-82EF84308A0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{3E1DBEB6-ACA6-4F75-A22A-775995FFBC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E1DBEB6-ACA6-4F75-A22A-775995FFBC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E1DBEB6-ACA6-4F75-A22A-775995FFBC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0044A26C-5336-4343-8DA6-82EF84308A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0044A26C-5336-4343-8DA6-82EF84308A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0044A26C-5336-4343-8DA6-82EF84308A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0044A26C-5336-4343-8DA6-82EF84308A0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
